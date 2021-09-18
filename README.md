@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning GoIT
+🌱 I’m currently learning Student of “GoIt-academy”, Full Stack Developer
 
 <!--
 **AleksandrNebesnyi/AleksandrNebesnyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
