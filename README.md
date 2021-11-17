@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 <!-- thinking I’m looking for help with new technologies for me. -->
 <!-- speech_balloon Ask me about anything. And if I can help you, I do it. -->
 
-![image](https://user-images.githubusercontent.com/82997944/142197594-abe7c0ab-f76f-406c-aa5b-8bffada1201f.png)
+
+![image](https://user-images.githubusercontent.com/82997944/142197872-c769513d-2a2b-47cd-b476-51c413758b1e.png)
