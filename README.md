@@ -15,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+telescope I’m currently working on my pet-projects
+seedling I’m currently learning JS, React, Node.js
+dancers I want to cooperate with an initiative team. Or ready to join an opensourse project.
+thinking I’m looking for help with new technologies for me.
+speech_balloon Ask me about anything. And if I can help you, I do it.
