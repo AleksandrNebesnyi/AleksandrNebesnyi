@@ -1,42 +1,21 @@
 <h2 align="center">Hi, here! 👨‍💻</h2>
 
-✍🏼 My specialization is creating UI with HTML / CSS, JavaScript,  React. I have experience in backend building with NodeJS.
+ My specialization is creating UI with HTML / CSS, JavaScript,  React. I have experience in backend building with NodeJS.
 
-👷🏼‍♂️ I participated in educational projects in different roles - as a Full-stack JS Developer.
+ I participated in educational projects in different roles - as a Full-stack JS Developer.
 
-🌱 Currently, I am interested in learning other JavaScript frameworks and TypeScript. Curious about upgrade courses and internships. 
+ Currently, I am interested in learning other JavaScript frameworks and TypeScript. Curious about upgrade courses and internships. 
 
-👅 English level: Pre-Intermediate
-
-
-
-
-### Hi there 👋
-- 🌱 I’m currently learning JS, React, Node.js
-
-
-<!--
+ English level: Pre-Intermediate
 
 
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- telescope I’m currently working on my pet-projects -->
-<!-- seedling I’m currently learning JS, React, Node.js -->
-<!-- dancers I want to cooperate with an initiative team. Or ready to join an opensourse project. -->
-<!-- thinking I’m looking for help with new technologies for me. -->
-<!-- speech_balloon Ask me about anything. And if I can help you, I do it. -->
 
-  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/Typescript-555?logo=typescript&style=for-the-badge" alt="typescript" title="TypeScript" /></a> 
-  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-555?logo=react&style=for-the-badge" alt="react" title="react" /></a>
+  
+
+<img align="left" alt="react" width="64px" src="https://raw.githubusercontent.com/marvall/filmoteka/main/src/images/stack/js.png" />
+<img align="left" alt="typescript" src="https://img.shields.io/badge/Typescript-555?logo=typescript&style=for-the-badge" />
 <img align="left" alt="JavaScript" width="64px" src="https://raw.githubusercontent.com/marvall/filmoteka/main/src/images/stack/js.png" />
 <img align="left" alt="Node.js" width="64px" src="https://raw.githubusercontent.com/marvall/filmoteka/main/src/images/stack/node.png" />
 <img align="left" alt="HTML5" width="64px" src="https://raw.githubusercontent.com/marvall/filmoteka/main/src/images/stack/html.png" />
