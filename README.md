@@ -26,5 +26,5 @@
 <img align="left" alt="Visual Studio Code" width="64px" src="https://github.com/AleksandrNebesnyi/my-resume/blob/main/img/stack/vsc.png" />
 <!-- <img align="left" alt="Firebase" width="64px" src="https://raw.githubusercontent.com/marvall/filmoteka/main/src/images/stack/firebase.png" /> -->
 <img align="left" alt="Handlebars" width="64px" src="https://github.com/AleksandrNebesnyi/my-resume/blob/main/img/stack/handlebars.png" />
-<img  align="left" alt="express"width="64px" src="https://github.com/AleksandrNebesnyi/my-resume/blob/main/img/stack/express%20js.png" />
+<img  align="left" alt="express"width="64px" src="https://github.com/AleksandrNebesnyi/my-resume/blob/main/img/stack/express-1.png" />
 <img  align="left" alt="mongodb"width="64px" src="https://github.com/AleksandrNebesnyi/my-resume/blob/main/img/stack/mongo%20db.png" />
