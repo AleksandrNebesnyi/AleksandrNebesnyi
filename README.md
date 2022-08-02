@@ -12,8 +12,8 @@
 
  
 
-<img align="left" alt="react" width="64px" src=src="https://img.shields.io/badge/React-555?logo=react&style=for-the-badge" />
-<img align="left" alt="typescript" width="64px" src="https://img.shields.io/badge/Typescript-555?logo=typescript&style=for-the-badge" />
+<!-- <img align="left" alt="react" width="64px" src="https://img.shields.io/badge/React-555?logo=react&style=for-the-badge" /> -->
+<!-- <img align="left" alt="typescript" width="64px" src="https://img.shields.io/badge/Typescript-555?logo=typescript&style=for-the-badge" /> -->
 <img align="left" alt="JavaScript" width="64px" src="https://raw.githubusercontent.com/marvall/filmoteka/main/src/images/stack/js.png" />
 <img align="left" alt="Node.js" width="64px" src="https://raw.githubusercontent.com/marvall/filmoteka/main/src/images/stack/node.png" />
 <img align="left" alt="HTML5" width="64px" src="https://raw.githubusercontent.com/marvall/filmoteka/main/src/images/stack/html.png" />
@@ -28,4 +28,4 @@
 <!-- <img align="left" alt="Firebase" width="64px" src="https://raw.githubusercontent.com/marvall/filmoteka/main/src/images/stack/firebase.png" /> -->
 <img align="left" alt="Handlebars" width="64px" src="https://raw.githubusercontent.com/marvall/filmoteka/main/src/images/stack/handlebars.png" />
 <!-- <img  align="left" alt="jQuery" width="64px" src="https://raw.githubusercontent.com/marvall/filmoteka/main/src/images/stack/jquery.png" /> -->
-<img  align="left" alt="express"width="64px" src="https://img.shields.io/badge/Express-555?logo=express&style=for-the-badge"  title="Express" />
+<!-- <img  align="left" alt="express"width="64px" src="https://img.shields.io/badge/Express-555?logo=express&style=for-the-badge"  title="Express" /> -->
