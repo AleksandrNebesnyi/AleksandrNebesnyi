@@ -12,8 +12,8 @@
 
  
 
-<!-- <img align="left" alt="react" width="64px" src="https://img.shields.io/badge/React-555?logo=react&style=for-the-badge" /> -->
-<!-- <img align="left" alt="typescript" width="64px" src="https://img.shields.io/badge/Typescript-555?logo=typescript&style=for-the-badge" /> -->
+<img align="left" alt="react" width="64px" src="https://github.com/AleksandrNebesnyi/my-resume/blob/main/img/stack/react-logo-logo-reactjs-logo-1173836.png" /> 
+ <img align="left" alt="typescript" width="64px" src="https://github.com/AleksandrNebesnyi/my-resume/blob/main/img/stack/typescript.png" /> 
 <img align="left" alt="JavaScript" width="64px" src="https://raw.githubusercontent.com/marvall/filmoteka/main/src/images/stack/js.png" />
 <img align="left" alt="Node.js" width="64px" src="https://raw.githubusercontent.com/marvall/filmoteka/main/src/images/stack/node.png" />
 <img align="left" alt="HTML5" width="64px" src="https://raw.githubusercontent.com/marvall/filmoteka/main/src/images/stack/html.png" />
