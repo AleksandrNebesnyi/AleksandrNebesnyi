@@ -6,7 +6,7 @@
 
  Currently, I am interested in learning other JavaScript frameworks and TypeScript. Curious about upgrade courses and internships. 
 
- English level: Pre-Intermediate
+ English level:Intermediate
 
 
 
